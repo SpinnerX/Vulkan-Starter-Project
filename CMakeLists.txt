@@ -1,3 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+
+project(VulkanStarterProject)
 # Finding opengl, glfw, glew, glut, and possibly freetype and even freeglut
 find_package(glfw3 REQUIRED)
 find_package(OpenGL REQUIRED)

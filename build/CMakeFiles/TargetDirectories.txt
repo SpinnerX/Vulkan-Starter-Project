@@ -1,0 +1,3 @@
+/home/spinnerx/Desktop/Vulkan-Starter-Project/build/CMakeFiles/VulkanStarterProject.dir
+/home/spinnerx/Desktop/Vulkan-Starter-Project/build/CMakeFiles/edit_cache.dir
+/home/spinnerx/Desktop/Vulkan-Starter-Project/build/CMakeFiles/rebuild_cache.dir
